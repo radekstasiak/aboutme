@@ -1,4 +1,4 @@
-package com.example.radek.mygoodreads;
+package com.example.radek.aboutme;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;

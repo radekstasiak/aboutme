@@ -1,4 +1,4 @@
-package com.example.radek.mygoodreads;
+package com.example.radek.aboutme;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
